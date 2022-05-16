@@ -25,7 +25,7 @@ const Projects = () => {
           <div className="project-description">
             <h1 className="hater-title">Hater</h1>
             <div className="github-links">
-              <a href="https://github.com/mustafabin/hater">Github</a>
+              <a href="https://github.com/forextroll/hater">Github</a>
             </div>
             <p>
               A social media site modeled playfully as the “evil twin” of Twitter. Built in React, Django and PostgreSQL
