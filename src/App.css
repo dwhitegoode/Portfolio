@@ -25,7 +25,6 @@ body {
 
 .about-me h2 {
   margin-top: 10vh;
-  background: linear-gradient(0deg, #0d0d0d 25%, #00ffff00 30%);
 }
 
 .project-container {
@@ -77,7 +76,6 @@ body {
 
 .hater-title {
   width: fit-content;
-  background: linear-gradient(0deg, #1313138f 25%, #00ffff00 30%);
 }
 
 .project-tools {
@@ -95,24 +93,6 @@ body {
 
 .cosmos {
   background: #95CD41;
-
-  /*
-  background: linear-gradient(180deg,
-      #3d05d800 5%,
-      #ff000004 15%,
-      #0400ff09 20%,
-      #f700ff07 50%,
-      #c44ecf07 90%,
-      #00ffff00);
-      */
-}
-
-.cosmos-title {
-  background: linear-gradient(0deg, #1313138f 25%, #00ffff00 30%);
-}
-
-.nined-title {
-  background: linear-gradient(0deg, #0c0c0b8f 25%, #00ffff00 30%);
 }
 
 .github-links a {
