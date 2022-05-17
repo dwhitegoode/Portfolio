@@ -28,7 +28,7 @@ const Projects = () => {
               <a href="https://github.com/forextroll/hater">Github</a>
             </div>
             <p>
-              A social media site modeled playfully as the “evil twin” of Twitter. Built in React, Django and PostgreSQL
+              A social media site modeled playfully as the “evil twin” of Twitter built with a small group. Made in React, Django and PostgreSQL
               with Session-based login to authenticate user's comments
               and posts.
             </p>
@@ -56,7 +56,7 @@ const Projects = () => {
               <a href="https://github.com/NasimAkbor/TheInnerBod">Github</a>
             </div>
             <p>
-              A project that aims to provide users with helpful information on how best to take care of different parts of their body, as well as, allow them to keep track of any foods they might want to add to their diet or diagnoses they might encounter.
+              A project built with a small group that aims to provide users with helpful information on how best to take care of different parts of their body, as well as, allow them to keep track of any foods they might want to add to their diet or diagnoses they might encounter.
             </p>
             <div className="project-tools">
               <img src={mongo} alt="mongo" />
